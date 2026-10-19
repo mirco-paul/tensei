@@ -1,1 +1,1 @@
-# tinytorch
+# TENSEI
